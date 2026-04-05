@@ -10,6 +10,8 @@ Decision trees are widely used in machine learning because of their **interpreta
 
 This project implements **Optimal Classification Trees (OCT)** as a **mixed-integer optimization** problem and solves it with **Gurobi**. The project also compares OCT against **CART**, **XGBoost**, and **Random Forest** on real classification datasets.
 
+**Contributors:** **Xiaoyan Lin**, **Zhuoqiao Ouyang**
+
 ---
 
 ## **Features**
