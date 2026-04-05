@@ -35,6 +35,7 @@ The project follows the workflow below:
 
 1. **Load and preprocess dataset**
 2. Use **CART** to generate a **warm start**
+   
    <img width="700" height="400" alt="CART" src="https://github.com/user-attachments/assets/8898e5b5-f5e1-4321-b732-76d5e1755397" />
 
 4. Formulate the **OCT mixed-integer optimization model**
