@@ -35,7 +35,7 @@ The project follows the workflow below:
 
 1. **Load and preprocess dataset**
 2. Use **CART** to generate a **warm start**
-   <img width="500" height="200" alt="CART" src="https://github.com/user-attachments/assets/8898e5b5-f5e1-4321-b732-76d5e1755397" />
+   <img width="700" height="400" alt="CART" src="https://github.com/user-attachments/assets/8898e5b5-f5e1-4321-b732-76d5e1755397" />
 
 4. Formulate the **OCT mixed-integer optimization model**
 6. Solve the model with **Gurobi**
@@ -64,6 +64,6 @@ The project follows the workflow below:
 - **OCT** remains competitive with **Random Forest** and **XGBoost**
 - **OCT** provides strong **interpretability**
 - **XGBoost** and **Random Forest** may achieve high accuracy, but they are less interpretable
-<img width="800" height="300" alt="Table1" src="https://github.com/user-attachments/assets/837ffac9-6ae6-4f96-9df6-5ea8ea54205b" />
+<img width="800" height="500" alt="Table1" src="https://github.com/user-attachments/assets/837ffac9-6ae6-4f96-9df6-5ea8ea54205b" />
 
 ---
