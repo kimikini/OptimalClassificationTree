@@ -68,3 +68,19 @@ The project follows the workflow below:
 <img width="800" height="500" alt="Table1" src="https://github.com/user-attachments/assets/837ffac9-6ae6-4f96-9df6-5ea8ea54205b" />
 
 ---
+
+## **References**
+
+1. **D. Bertsimas and J. Dunn**, “Optimal classification trees,” *Machine Learning*, vol. 106, no. 7, pp. 1039–1082, 2017.  
+
+2. **Gurobi Optimization Inc.**, *Gurobi Optimizer Reference Manual*, 2015. Available: http://www.gurobi.com  
+
+3. **IBM ILOG CPLEX**, *IBM ILOG CPLEX V12.1 User’s Manual*, 2014. Available: https://www-01.ibm.com/software/commerce/optimization/cplex-optimizer/  
+
+4. **M. Lichman**, “UCI Machine Learning Repository,” 2013. Available: http://archive.ics.uci.edu/ml  
+
+5. **S. Aghaei, A. Gómez, and P. Vayanos**, “Strong optimal classification trees,” 2021. Available: https://optimization-online.org/wp-content/uploads/2021/01/StrongOCT-1.pdf  
+
+6. **T. P.**, “Overfitting and underfitting in machine learning,” *SuperAnnotate*, Oct. 2022. Accessed: 2025-05-02. Available: https://www.superannotate.com/blog/overfitting-and-underfitting-in-machine-learning  
+
+7. **X. Zhao**, “Optimal classification trees: MIT implementation,” n.d. Available: https://github.com/XuanyiZhao/Optimal_classification_trees
