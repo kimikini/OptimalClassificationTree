@@ -35,16 +35,16 @@ The project follows the workflow below:
 
 1. **Load and preprocess dataset**
 2. Use **CART** to generate a **warm start**
-   <img width="989" height="601" alt="CART" src="https://github.com/user-attachments/assets/8898e5b5-f5e1-4321-b732-76d5e1755397" />
+   <img width="500" height="200" alt="CART" src="https://github.com/user-attachments/assets/8898e5b5-f5e1-4321-b732-76d5e1755397" />
 
 4. Formulate the **OCT mixed-integer optimization model**
 6. Solve the model with **Gurobi**
 7. Reconstruct the tree from the optimized split variables
-   <img width="990" height="647" alt="oct" src="https://github.com/user-attachments/assets/ed9cbb1d-c861-4918-b38b-6b67146299ef" />
-   <img width="1240" height="468" alt="octh" src="https://github.com/user-attachments/assets/792a93d0-acd9-4cb6-8092-32c7c43150b0" />
+   <img width="500" height="200" alt="oct" src="https://github.com/user-attachments/assets/ed9cbb1d-c861-4918-b38b-6b67146299ef" />
+   <img width="500" height="200" alt="octh" src="https://github.com/user-attachments/assets/792a93d0-acd9-4cb6-8092-32c7c43150b0" />
 
 9. Evaluate training and testing performance
-    <img width="926" height="765" alt="missclassified" src="https://github.com/user-attachments/assets/cbc66f3b-bd81-4c7d-ae53-cc1fce2766a3" />
+    <img width="500" height="200" alt="missclassified" src="https://github.com/user-attachments/assets/cbc66f3b-bd81-4c7d-ae53-cc1fce2766a3" />
 
 11. Compare results with **CART**, **Random Forest**, and **XGBoost**
 
@@ -66,6 +66,6 @@ The project follows the workflow below:
 - **OCT** remains competitive with **Random Forest** and **XGBoost**
 - **OCT** provides strong **interpretability**
 - **XGBoost** and **Random Forest** may achieve high accuracy, but they are less interpretable
-<img width="1197" height="657" alt="Table1" src="https://github.com/user-attachments/assets/837ffac9-6ae6-4f96-9df6-5ea8ea54205b" />
+<img width="800" height="300" alt="Table1" src="https://github.com/user-attachments/assets/837ffac9-6ae6-4f96-9df6-5ea8ea54205b" />
 
 ---
