@@ -44,8 +44,6 @@ The project follows the workflow below:
    <img width="700" height="400" alt="octh" src="https://github.com/user-attachments/assets/792a93d0-acd9-4cb6-8092-32c7c43150b0" />
 
 9. Evaluate training and testing performance
-    <img width="700" height="400" alt="missclassified" src="https://github.com/user-attachments/assets/cbc66f3b-bd81-4c7d-ae53-cc1fce2766a3" />
-
 11. Compare results with **CART**, **Random Forest**, and **XGBoost**
 
 ---
